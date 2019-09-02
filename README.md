@@ -1,0 +1,1 @@
+# snapStore
